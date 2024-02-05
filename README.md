@@ -1,4 +1,4 @@
-# Php-Holiday-Package
+# Linux executable file for setting current date
 Set local date to current date, API based.
 
     setTime.sh
