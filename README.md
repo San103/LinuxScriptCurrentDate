@@ -23,5 +23,5 @@ simply go to directory of the file and type the filename 'setTime.sh'
 visit this article, recommend to use system.d
 
 ```
-https://www.baeldung.com/linux/run-script-on-startup)https://www.baeldung.com/linux/run-script-on-startup
+https://www.baeldung.com/linux/run-script-on-startup
 ```
