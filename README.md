@@ -6,6 +6,7 @@ Set local date to current date, API based.
 <h1>Prerequisite Packages</h1>
 must have these packages in your machine
 For Arch Linux based
+
 - [x] sudo pacman -S curl
 - [x] sudo pacman -S jq
 
