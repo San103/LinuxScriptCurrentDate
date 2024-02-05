@@ -1,4 +1,13 @@
-to run the script in terminal,
-simply go to directly of the file and type the filename 'setTime.sh' including sh
+# Php-Holiday-Package
+Set local date to current date, API based.
 
-this only for Linux OS command
+    setTime.sh
+
+<h1>For Arch Linux based OS</h1>
+must have these packages in your OS
+
+- [x] sudo pacman -S curl
+- [x] sudo pacman -S jq
+
+Run the script in terminal,
+simply go to directory of the file and type the filename 'setTime.sh'
