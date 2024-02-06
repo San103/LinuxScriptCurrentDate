@@ -1,12 +1,12 @@
-# Linux executable file for setting current date
-FOr those machine that often reset time date every boot and cant afford to buy a cmos battery
+# Linux executable file for setting local machine to current date manila timezone
+FOr those machine that reset often every boot
 
     setTime.sh
 
 <h1>Prerequisite Packages</h1>
 must have these packages in your machine
 
-For Arch Linux based, install these, 
+For Arch Linux based, install these following, 
 by default curl is already installed
 
 ```
