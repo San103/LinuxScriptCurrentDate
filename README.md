@@ -1,4 +1,4 @@
-# Linux executable file for setting local machine to current date manila timezone
+# Linux script - setting date based in online API manila timezone
 FOr those machine that reset often every boot
 
     setTime.sh
