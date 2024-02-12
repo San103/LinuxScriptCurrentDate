@@ -25,3 +25,13 @@ visit this article, recommend to use system.d
 ```
 https://www.baeldung.com/linux/run-script-on-startup
 ```
+
+```
+sudo chmod -x setTime.sh
+```
+
+RUN the script by 
+
+```
+./setTime.sh
+```
