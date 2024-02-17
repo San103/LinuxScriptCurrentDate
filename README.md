@@ -6,6 +6,7 @@ FOr those machine that reset often every boot
 <h1>Prerequisite Packages</h1>
 must have these packages in your machine
 
+If the output is the right date and time , change the 'utc.date' to 'datetime'
 For Arch Linux based, install these following, 
 by default curl is already installed
 
