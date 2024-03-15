@@ -9,3 +9,4 @@ online_date=$(curl -s http://worldtimeapi.org/api/timezone/Asia/Manila | jq -r .
 sudo date -s "$online_date"
 
 echo "Setting date successfully: $online_date"
+echo "Done Setting up"
