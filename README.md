@@ -1,5 +1,5 @@
 # Linux script - setting date based in online API manila timezone
-FOr those machine that reset often every boot
+FOr those machine that time resets often without any reason every boot
 
     setTime.sh
 
